@@ -1,27 +1,169 @@
 ﻿define({ entries : {
-    "11452754": {
+    "aggarwal2023models": {
+        "author": "Aggarwal, Rupali and Sarangi, Pradeepta Kumar and Sahoo, Ashok Kumar",
+        "booktitle": "2023 International Conference on Disruptive Technologies (ICDT)",
+        "doi": "10.1109/ICDT57929.2023.10150782",
+        "groups": "model-performance",
+        "keywords": "Logistic Regression, SVM, Decision Tree, KNN, fraud detection, machine learning",
+        "pages": "650--654",
+        "title": "Credit Card Fraud Detection: Analyzing the Performance of Four Machine Learning Models",
+        "type": "INPROCEEDINGS",
+        "year": "2023"
+    },
+    "agra2023oversampling": {
+        "author": "Agra, Ronaldo and De Souza, Fernando Narciso Bertolaccini and Soares, Paulo C\u00e9lio and Da Silva, Gladston Luiz",
+        "booktitle": "2023 18th Iberian Conference on Information Systems and Technologies (CISTI)",
+        "doi": "10.23919/CISTI58278.2023.10212071",
+        "groups": "imbalance-handling",
+        "keywords": "SMOTE, oversampling, undersampling, Logistic Regression, fraud detection, imbalanced dataset",
+        "pages": "1--6",
+        "title": "A Comparative Analysis Between Undersampling and Oversampling Approaches to Data Balancing",
+        "type": "INPROCEEDINGS",
+        "year": "2023"
+    },
+    "alam2020imbalanced": {
+        "author": "Alam, Talha Mahboob and Shaukat, Kamran and Hameed, Ibrahim A. and Luo, Suhuai and Sarwar, Muhammad Umer and Shabbir, Shakir and Li, Jiaming and Khushi, Matloob",
+        "groups": "imbalance-handling",
+        "journal": "IEEE Access",
+        "keywords": "imbalance-handling, SMOTE, ADASYN, fraud detection",
+        "pages": "201173--201198",
+        "title": "An Investigation of Credit Card Default Prediction in the Imbalanced Datasets",
+        "type": "ARTICLE",
+        "volume": "8",
+        "year": "2020"
+    },
+    "appavu2025fraud": {
+        "author": "Appavu, Narenthirakumar",
+        "booktitle": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+        "doi": "10.1109/IDCIOT64235.2025.10915092",
+        "groups": "model-performance",
+        "keywords": "Logistic Regression, Decision Tree, fraud detection, adaptive learning, machine learning",
+        "pages": "2068--2074",
+        "title": "AI and ML Approaches for Credit Card Fraud Detection: A Comparative Study of Logistic Regression and Decision Tree Techniques",
+        "type": "INPROCEEDINGS",
+        "year": "2025"
+    },
+    "bharadwaj2023fraud": {
+        "author": "Bharadwaj, Sanjay",
+        "booktitle": "2023 16th International Conference on Developments in eSystems Engineering (DeSE)",
+        "doi": "10.1109/DeSE60595.2023.10469583",
+        "groups": "imbalance-handling",
+        "keywords": "SMOTE, ADASYN, Random Forest, KNN, fraud detection, imbalanced dataset",
+        "pages": "168--172",
+        "title": "Credit Card Fraud Detection Using Machine Learning",
+        "type": "INPROCEEDINGS",
+        "year": "2023"
+    },
+    "bhatia2022risk": {
+        "author": "Bhatia, Sejal",
+        "booktitle": "2022 International Conference on Communication, Computing and Internet of Things (IC3IoT)",
+        "doi": "10.1109/IC3IOT53935.2022.9768006",
+        "groups": "model-performance",
+        "keywords": "XGBoost, Random Forest, KNN, Decision Tree, credit risk prediction, ensemble learning",
+        "pages": "1--5",
+        "title": "Pragmatic Segmentation-Based Credit Risk Management Using Machine Learning",
+        "type": "INPROCEEDINGS",
+        "year": "2022"
+    },
+    "coello2023performance": {
+        "author": "Coello, Kevin and Zhou, Kaiyue and Nutalapati, Harsha and Tiglao, Nestor Michael C.",
+        "booktitle": "2023 International Symposium on Networks, Computers and Communications (ISNCC)",
+        "doi": "10.1109/ISNCC58260.2023.10323945",
+        "groups": "imbalance-handling",
+        "keywords": "SMOTE, ADASYN, Random Forest, XGBoost, fraud detection, imbalanced dataset",
+        "pages": "1--6",
+        "title": "Performance Analysis of Credit Card Fraud Analysis and Detection Machine Learning Algorithms",
+        "type": "INPROCEEDINGS",
+        "year": "2023"
+    },
+    "gan2023lightgbm": {
+        "author": "Gan, Zhiren and Qiu, Junyuan and Li, Fuli and Liang, Qian",
+        "booktitle": "Proceedings of the International Conference on Intelligent Computing and Digital Communications",
+        "doi": "10.4108/eai.2-6-2023.2334590",
+        "groups": "model-performance",
+        "keywords": "LightGBM, XGBoost, CatBoost, ensemble learning, credit default prediction",
+        "title": "A LightGBM Based Default Prediction Method for American Express",
+        "type": "inproceedings",
+        "year": "2023"
+    },
+    "hussain2024imbalanced": {
+        "author": "Hussain, Adil and Dhanawat, Vineet and Aslam, Ayesha and Iqbal, Noman and Tripura, Sajib",
+        "booktitle": "2024 Beyond Technology Summit on Informatics International Conference (BTS-I2C)",
+        "doi": "10.1109/BTS-I2C63534.2024.10942037",
+        "groups": "imbalance-handling",
+        "keywords": "SMOTE, ROS, RUS, fraud detection, Random Forest, imbalanced dataset",
+        "pages": "676--681",
+        "title": "Credit Card Fraud Detection Using Machine Learning Techniques: Dealing with Imbalanced Data Using Over-Sampling and Under-Sampling Methods",
+        "type": "INPROCEEDINGS",
+        "year": "2024"
+    },
+    "ibrahim2024creditcard": {
+        "author": "Ibrahim, Nurain and Ishak, Umi Munirah and Ali, Nur Nabilah Arina and Shaadan, Norshahida",
+        "doi": "10.24191/mjoc.v9i1.25656",
+        "groups": "model-performance",
+        "journal": "Malaysian Journal of Computing",
+        "keywords": "Decision Tree, Logistic Regression, Naive Bayes, credit default prediction, feature selection",
+        "number": "1",
+        "pages": "1722--1751",
+        "publisher": "UiTM Press",
+        "title": "Machine Learning-Based Approaches for Credit Card Debt Prediction",
+        "type": "article",
+        "volume": "9",
+        "year": "2024"
+    },
+    "khine2020boosting": {
+        "author": "Khine, Aye Aye and Khin, Hint Wint",
+        "booktitle": "2020 IEEE Conference on Computer Applications (ICCA)",
+        "doi": "10.1109/ICCA49400.2020.9022843",
+        "groups": "model-performance",
+        "keywords": "online boosting, EFDT, fraud detection, data stream mining, ensemble learning",
+        "pages": "1--4",
+        "title": "Credit Card Fraud Detection Using Online Boosting with Extremely Fast Decision Tree",
+        "type": "INPROCEEDINGS",
+        "year": "2020"
+    },
+    "ning2023adaboost": {
+        "author": "Ning, Wang and Chen, Siliang and Lei, Songyi and Liao, Xiongbin",
+        "doi": "10.1109/ACCESS.2023.3290957",
+        "groups": "model-performance",
+        "journal": "IEEE Access",
+        "keywords": "AdaBoost, ensemble learning, fraud detection, self-paced learning, classifier diversity",
+        "pages": "66488--66496",
+        "title": "AMWSPLAdaboost Credit Card Fraud Detection Method Based on Enhanced Base Classifier Diversity",
+        "type": "ARTICLE",
+        "volume": "11",
+        "year": "2023"
+    },
+    "sahoo2025logistic": {
         "author": "Sahoo, Anant and Patel, Deep and Mohyuddin, Sulaiman and Balammagary, Sruthi and Mohammed, Abubakar and Janamolla, Kavitha",
         "booktitle": "2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)",
         "doi": "10.1109/ICAFT66710.2025.11452754",
-        "keywords": "Logistic regression;Accuracy;Computational modeling;Data preprocessing;Credit cards;Data models;Fraud;Numerical models;Optimization;Principal component analysis;Credit Card Fraud Detection;Logistic Regression;Model Evaluation;Data Preprocessing;PCA;Regularization",
-        "pages": "1-5",
+        "groups": "model-performance",
+        "keywords": "Logistic Regression, PCA, Lasso, optimisation, fraud detection, machine learning",
+        "pages": "1--5",
         "title": "Logistic Regression Optimization for Credit Card Fraud Detection",
         "type": "INPROCEEDINGS",
         "year": "2025"
     },
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+    "wang2021bankruptcy": {
+        "author": "Wang, Haomin and Liu, Xiangdong",
+        "groups": "imbalance-handling",
+        "journal": "PLoS ONE",
+        "keywords": "undersampling, ENN, Tomek Links, bankruptcy prediction, imbalanced dataset, machine learning",
+        "title": "Undersampling bankruptcy prediction: Taiwan bankruptcy data",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "volume": "16",
+        "year": "2021"
+    },
+    "xie2025catboost": {
+        "author": "Xie, Haoming",
+        "booktitle": "2025 5th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)",
+        "doi": "10.1109/MLISE66443.2025.11100175",
+        "groups": "model-performance",
+        "keywords": "CatBoost, Bayesian Optimization, Random Forest, fraud prediction, ensemble learning",
+        "pages": "103--110",
+        "title": "CatBoost and Bayesian Optimization Algorithm-Based Classification of Fraudulently Insured Persons and Random Forest-Based Fraud Prediction Combining Multiple Attention Mechanisms",
+        "type": "INPROCEEDINGS",
+        "year": "2025"
     }
 }});
