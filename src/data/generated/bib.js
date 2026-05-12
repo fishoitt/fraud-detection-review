@@ -1,5 +1,5 @@
 ﻿define({ entries : {
-    "aggarwal2023models": {
+    "aggarwal2023Models": {
         "author": "Aggarwal, Rupali and Sarangi, Pradeepta Kumar and Sahoo, Ashok Kumar",
         "booktitle": "2023 International Conference on Disruptive Technologies (ICDT)",
         "doi": "10.1109/ICDT57929.2023.10150782",
@@ -10,12 +10,12 @@
         "type": "INPROCEEDINGS",
         "year": "2023"
     },
-    "agra2023oversampling": {
+    "agra2023imbalanced": {
         "author": "Agra, Ronaldo and De Souza, Fernando Narciso Bertolaccini and Soares, Paulo C\u00e9lio and Da Silva, Gladston Luiz",
         "booktitle": "2023 18th Iberian Conference on Information Systems and Technologies (CISTI)",
         "doi": "10.23919/CISTI58278.2023.10212071",
         "groups": "imbalance-handling",
-        "keywords": "SMOTE, oversampling, undersampling, Logistic Regression, fraud detection, imbalanced dataset",
+        "keywords": "SMOTE, oversampling, undersampling, Logistic Regression, fraud detection, imbalance-handling",
         "pages": "1--6",
         "title": "A Comparative Analysis Between Undersampling and Oversampling Approaches to Data Balancing",
         "type": "INPROCEEDINGS",
@@ -32,7 +32,7 @@
         "volume": "8",
         "year": "2020"
     },
-    "appavu2025fraud": {
+    "appavu2025Models": {
         "author": "Appavu, Narenthirakumar",
         "booktitle": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
         "doi": "10.1109/IDCIOT64235.2025.10915092",
@@ -43,18 +43,18 @@
         "type": "INPROCEEDINGS",
         "year": "2025"
     },
-    "bharadwaj2023fraud": {
+    "bharadwaj2023imbalanced": {
         "author": "Bharadwaj, Sanjay",
         "booktitle": "2023 16th International Conference on Developments in eSystems Engineering (DeSE)",
         "doi": "10.1109/DeSE60595.2023.10469583",
         "groups": "imbalance-handling",
-        "keywords": "SMOTE, ADASYN, Random Forest, KNN, fraud detection, imbalanced dataset",
+        "keywords": "SMOTE, ADASYN, Random Forest, KNN, fraud detection, imbalance-handling",
         "pages": "168--172",
         "title": "Credit Card Fraud Detection Using Machine Learning",
         "type": "INPROCEEDINGS",
         "year": "2023"
     },
-    "bhatia2022risk": {
+    "bhatia2022Models": {
         "author": "Bhatia, Sejal",
         "booktitle": "2022 International Conference on Communication, Computing and Internet of Things (IC3IoT)",
         "doi": "10.1109/IC3IOT53935.2022.9768006",
@@ -65,18 +65,18 @@
         "type": "INPROCEEDINGS",
         "year": "2022"
     },
-    "coello2023performance": {
+    "coello2023imbalanced": {
         "author": "Coello, Kevin and Zhou, Kaiyue and Nutalapati, Harsha and Tiglao, Nestor Michael C.",
         "booktitle": "2023 International Symposium on Networks, Computers and Communications (ISNCC)",
         "doi": "10.1109/ISNCC58260.2023.10323945",
         "groups": "imbalance-handling",
-        "keywords": "SMOTE, ADASYN, Random Forest, XGBoost, fraud detection, imbalanced dataset",
+        "keywords": "SMOTE, ADASYN, Random Forest, XGBoost, fraud detection, imbalance-handling",
         "pages": "1--6",
         "title": "Performance Analysis of Credit Card Fraud Analysis and Detection Machine Learning Algorithms",
         "type": "INPROCEEDINGS",
         "year": "2023"
     },
-    "gan2023lightgbm": {
+    "gan2023Models": {
         "author": "Gan, Zhiren and Qiu, Junyuan and Li, Fuli and Liang, Qian",
         "booktitle": "Proceedings of the International Conference on Intelligent Computing and Digital Communications",
         "doi": "10.4108/eai.2-6-2023.2334590",
@@ -91,13 +91,13 @@
         "booktitle": "2024 Beyond Technology Summit on Informatics International Conference (BTS-I2C)",
         "doi": "10.1109/BTS-I2C63534.2024.10942037",
         "groups": "imbalance-handling",
-        "keywords": "SMOTE, ROS, RUS, fraud detection, Random Forest, imbalanced dataset",
+        "keywords": "SMOTE, ROS, RUS, fraud detection, Random Forest, imbalance-handling",
         "pages": "676--681",
         "title": "Credit Card Fraud Detection Using Machine Learning Techniques: Dealing with Imbalanced Data Using Over-Sampling and Under-Sampling Methods",
         "type": "INPROCEEDINGS",
         "year": "2024"
     },
-    "ibrahim2024creditcard": {
+    "ibrahim2024Models": {
         "author": "Ibrahim, Nurain and Ishak, Umi Munirah and Ali, Nur Nabilah Arina and Shaadan, Norshahida",
         "doi": "10.24191/mjoc.v9i1.25656",
         "groups": "model-performance",
@@ -111,7 +111,7 @@
         "volume": "9",
         "year": "2024"
     },
-    "khine2020boosting": {
+    "khine2020Models": {
         "author": "Khine, Aye Aye and Khin, Hint Wint",
         "booktitle": "2020 IEEE Conference on Computer Applications (ICCA)",
         "doi": "10.1109/ICCA49400.2020.9022843",
@@ -122,7 +122,7 @@
         "type": "INPROCEEDINGS",
         "year": "2020"
     },
-    "ning2023adaboost": {
+    "ning2023Models": {
         "author": "Ning, Wang and Chen, Siliang and Lei, Songyi and Liao, Xiongbin",
         "doi": "10.1109/ACCESS.2023.3290957",
         "groups": "model-performance",
@@ -134,7 +134,7 @@
         "volume": "11",
         "year": "2023"
     },
-    "sahoo2025logistic": {
+    "sahoo2025Models": {
         "author": "Sahoo, Anant and Patel, Deep and Mohyuddin, Sulaiman and Balammagary, Sruthi and Mohammed, Abubakar and Janamolla, Kavitha",
         "booktitle": "2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)",
         "doi": "10.1109/ICAFT66710.2025.11452754",
@@ -145,17 +145,17 @@
         "type": "INPROCEEDINGS",
         "year": "2025"
     },
-    "wang2021bankruptcy": {
+    "wang2021imbalanced": {
         "author": "Wang, Haomin and Liu, Xiangdong",
         "groups": "imbalance-handling",
         "journal": "PLoS ONE",
-        "keywords": "undersampling, ENN, Tomek Links, bankruptcy prediction, imbalanced dataset, machine learning",
+        "keywords": "undersampling, ENN, Tomek Links, bankruptcy prediction, imbalance-handling, machine learning",
         "title": "Undersampling bankruptcy prediction: Taiwan bankruptcy data",
         "type": "article",
         "volume": "16",
         "year": "2021"
     },
-    "xie2025catboost": {
+    "xie2025Models": {
         "author": "Xie, Haoming",
         "booktitle": "2025 5th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)",
         "doi": "10.1109/MLISE66443.2025.11100175",
