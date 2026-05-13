@@ -23,6 +23,7 @@
     },
     "alam2020imbalanced": {
         "author": "Alam, Talha Mahboob and Shaukat, Kamran and Hameed, Ibrahim A. and Luo, Suhuai and Sarwar, Muhammad Umer and Shabbir, Shakir and Li, Jiaming and Khushi, Matloob",
+        "doi": "10.1109/ACCESS.2020.3033784",
         "groups": "imbalance-handling",
         "journal": "IEEE Access",
         "keywords": "imbalance-handling, SMOTE, ADASYN, fraud detection",
@@ -152,6 +153,7 @@
         "keywords": "undersampling, ENN, Tomek Links, bankruptcy prediction, imbalance-handling, machine learning",
         "title": "Undersampling bankruptcy prediction: Taiwan bankruptcy data",
         "type": "article",
+        "url": "https://api.semanticscholar.org/CorpusID:235709050",
         "volume": "16",
         "year": "2021"
     },
